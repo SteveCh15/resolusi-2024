@@ -6,3 +6,4 @@ RENCANA LAT WEB
   - ES6
   - Framework Javascript
 4. GIT & GITHUB
+5. Struktur Data Dasar
