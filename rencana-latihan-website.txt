@@ -5,5 +5,8 @@ RENCANA LAT WEB
 3. JAVASCRIPT
   - ES6
   - Framework Javascript
+    ^ Vue
 4. GIT & GITHUB
 5. Struktur Data Dasar
+6. PHP Frameworks
+  - Laravel
