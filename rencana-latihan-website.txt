@@ -1,0 +1,8 @@
+RENCANA LAT WEB
+
+1. HTML
+2. CSS
+3. JAVASCRIPT
+  - ES6
+  - Framework Javascript
+4. GIT & GITHUB
